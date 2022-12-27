@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Abhilash sarnad</h1>
-<h3 align="center">A passionate Data scientist / Machine learning engineer from Duke</h3>
+<h3 align="left">Data scientist / Machine learning engineer from Duke</h3>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif">
 
-I am a recent graduate from Duke University with a Masters in Artificial Intelligence. \
-I am passionate about using machine learning and AI to build transformational products. With a strong foundation in the field and a drive to constantly learn and improve, I am excited to contribute my skills and knowledge to meaningful projects and make a positive impact through technology. 
+I am a recent graduate from Duke University with a Masters in Artificial Intelligence. I am passionate about using machine learning and AI to build transformational products. With a strong foundation in the field and a drive to constantly learn and improve, I am excited to contribute my skills and knowledge to meaningful projects and make a positive impact through technology. 
 
 I interned at ETS AI labs during Summer'22 where I developed a recommendation system of personalized learning resources based on the background of students and their assessment scores
 
