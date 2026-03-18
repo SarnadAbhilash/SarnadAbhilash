@@ -1,37 +1,76 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abhilash sarnad</h1>
-<h3 align="left">Data scientist / Machine learning engineer from Duke</h3>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          A B H I L A S H   S A R N A D                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif">
+**AI Engineer · Fine-Tuning · LLM Systems · Optimization**
 
-I am a recent graduate from Duke University with a Masters in Artificial Intelligence. I am passionate about using machine learning and AI to build transformational products. With a strong foundation in the field and a drive to constantly learn and improve, I am excited to contribute my skills and knowledge to meaningful projects and make a positive impact through technology. 
+*Masters Artificial Intelligence — Duke University*
 
-I interned at ETS AI labs during Summer'22 where I developed a recommendation system of personalized learning resources based on the background of students and their assessment scores
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-sarnad-5b23047a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sarnadabhilash@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/yourhandle)
 
-Looking forward to collaborating and making a difference in the world of AI
+</div>
 
-- 💬 Ask me about **Machine learning, Deep learning, Data science, Product development**
+---
 
-- ⚡ Fun fact **I am a huge UFC and MMA fan**
+## About
 
-💻 **Skills**
-- 👨‍💻 Data science/Machine learning: Python, SQL and PyTorch for Machine leanring / Deep learning
-- 🧮 Data Analysis and visualization
-- 💾 Version control w/ git
-- 📱 SwiftUI and Swift for ios app development
-- ☁️ Continuous integration & delivery
-- ✍️ Strong verbal and written communication skills
+I'm an **Assistant AI Engineer at ETS**, working at the intersection of large language models, fine-tuning, and production ML systems. My focus is on making models smarter, leaner, and more reliable — from research prototype to deployed system.
 
+I hold a **Masters in Artificial Intelligence from Duke University**, where I deepened my foundation in deep learning, optimization, and statistical modeling.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhilash-sarnad-5b23047a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhilash-sarnad-5b23047a/" height="30" width="40" /></a>
-</p>
+Currently, I'm most energized by:
+- Inference-time compute strategies (reasoning, MCTS, search)
+- RLHF pipelines and process reward models
+- Efficient fine-tuning at scale (QLoRA, PEFT, distillation)
+- MLOps and reproducible training infrastructure
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarnadabhilash&show_icons=true&locale=en" alt="sarnadabhilash" /></p>
+**Languages**
+`Python` `Bash` `SQL`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnadabhilash&" alt="sarnadabhilash" /></p>
+**ML & LLMs**
+`PyTorch` `Transformers` `PEFT / QLoRA` `TRL` `vLLM` `DeepSpeed`
+
+**MLOps & Infra**
+`Ray` `Modal` `Docker` `MLflow` `Weights & Biases`
+
+**Data & Tooling**
+`HuggingFace Datasets` `Pandas` `NumPy` `Git`
+
+---
+
+## Areas of Expertise
+
+| Domain | Focus |
+|---|---|
+| 🔧 **Fine-Tuning** | SFT, RLHF, QLoRA, PEFT on instruction-following and reasoning tasks |
+| ⚡ **Optimization** | Quantization, KV-cache tuning, throughput/latency trade-offs |
+| 🧠 **LLM Systems** | Reward modeling, process reward models, inference pipelines |
+| 📊 **Evaluation** | Benchmarking, model comparison, custom eval frameworks |
+| 🏗️ **MLOps** | Distributed training, experiment tracking, reproducible pipelines |
+
+---
+
+## Currently Exploring
+
+- RL for language model reasoning (GRPO, RLOO)
+- Scalable synthetic mid-training data generation
+- Model evaluation methodology for open-ended tasks
+
+---
+
+<div align="center">
+
+*"The best model is the one that ships — and keeps getting better."*
+</div>
