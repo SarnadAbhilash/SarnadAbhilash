@@ -1,9 +1,9 @@
 **AI Engineer · Educational Testing Service**  
-**M.S. Artificial Intelligence — Duke University**
+**M.Eng. Artificial Intelligence — Duke University**
 
 ---
 
-I work on large language model systems at ETS — fine-tuning, RLHF pipelines, and inference optimization for production NLP. Outside of work, my research focuses on safety evaluation and alignment: understanding how model behavior shifts across decoding configurations and how adversarial prompts surface failure modes at scale.
+I work on large language model systems at ETS — fine-tuning, RLHF pipelines, and inference optimization and AI applications. Outside of work, my research focuses on safety evaluation and alignment: understanding how model behavior shifts across decoding configurations and how adversarial prompts surface failure modes at scale.
 
 **Current research**
 
