@@ -1,6 +1,7 @@
 ## Abhilash Sarnad
 
 **AI Engineer — agentic systems, LLM inference, and evaluation**
+
 AI Engineer at ETS · M.Eng. Artificial Intelligence, Duke University · San Francisco Bay Area
 
 I build production multi-agent LLM systems and the inference infrastructure that serves them. Most of my work sits at the boundary between agents and serving: how agent workloads load an inference stack, how to measure that, and how to make it faster and cheaper without giving up quality.
