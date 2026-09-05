@@ -23,7 +23,7 @@ I build production multi-agent LLM systems and the inference infrastructure that
 
 ### At work
 
-At ETS I own a multi-agent assessment platform adopted across 5+ programs, a provider-agnostic inference layer over Bedrock, Azure OpenAI, and self-hosted vLLM, and the evaluation harnesses behind it: LLM-as-judge scoring against real transcripts and synthetic-persona studies validated against human outcomes at 0.97 weighted kappa.
+At ETS I own a multi-agent assessment platform adopted across 5+ programs, a provider-agnostic inference layer over Bedrock, Azure OpenAI, and self-hosted vLLM, and the evaluation harnesses behind it: expert annotation programs, LLM-as-judge scoring against real transcripts, and a synthetic-persona platform whose 550-persona × 55-item validation study reproduced the reference psychometric benchmarks (α 0.994, QWK 0.954).
 
 **Tools I reach for:** Python, Go, PyTorch, vLLM, SGLang, Ray, Triton, Kubernetes, AWS · Claude Agent SDK, Claude Code, Codex, MCP
 
