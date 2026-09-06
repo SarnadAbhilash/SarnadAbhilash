@@ -9,7 +9,6 @@ I build production multi-agent LLM systems and the inference infrastructure that
 ### Upstream contributions
 
 - **[vLLM AIBrix](https://github.com/vllm-project/aibrix) — two merged PRs.** [#2640](https://github.com/vllm-project/aibrix/pull/2640): ModelRouter integration tests covering HTTPRoute and cross-namespace ReferenceGrant lifecycle across Deployment, ModelAdapter, RayClusterFleet, and LeaderWorkerSet workloads, plus a fix for a controller bug that deleted ReferenceGrants while non-Deployment workloads were still routing. [#2665](https://github.com/vllm-project/aibrix/pull/2665): ModelAdapter controller integration tests (Service/EndpointSlice lifecycle, readiness backoff, retry annotations) plus a controller fix so retry and scheduling annotations persist across reconcile cycles — previously the backoff state was lost on every reconcile and failing engines were retried every 10 s.
-- **[vLLM](https://github.com/vllm-project/vllm) — [PR #53395](https://github.com/vllm-project/vllm/pull/53395).** Documentation on measuring prefix-cache effectiveness: metric units, a hit-ratio query, controlling request order and concurrency, and why a high token hit ratio does not imply a proportional speedup.
 
 ### Inference systems
 
