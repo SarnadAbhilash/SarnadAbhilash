@@ -27,7 +27,7 @@ I build production multi-agent LLM systems, post-train models to act as agents, 
 
 ### At work
 
-At ETS I own a multi-agent assessment platform, a provider-agnostic inference layer over Bedrock, Azure OpenAI, and self-hosted vLLM, and the evaluation harnesses behind it.
+At ETS I customize open-source models for assessment needs and build the AI applications that use them. I post-trained Llama, Phi, and Gemma with LoRA SFT and DPO for a student practice app (the fine-tuned Llama 3.3 shipped to production), and fine-tuned a BERT-based model that scores teacher moves. I also own a multi-agent assessment platform, a provider-agnostic inference layer over Bedrock, Azure OpenAI, and self-hosted vLLM, and the evaluation harnesses behind it.
 
 **Tools I reach for:** Python, Go, PyTorch, vLLM, SGLang, Ray, Triton, Kubernetes, AWS · Claude Agent SDK, Claude Code, Codex, MCP
 
